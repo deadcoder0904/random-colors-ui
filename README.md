@@ -1,6 +1,6 @@
 # random-colors-ui
 
-> Over 1000 generated random colors :ghost:
+> Over 1000 generated random foreground & background colors :ghost:
 
 # Screenshot
 
